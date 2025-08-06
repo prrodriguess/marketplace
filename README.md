@@ -1,5 +1,3 @@
----
-
 ```md
 # 🛒 Marketplace Indie — Full Stack (Angular + NestJS + Prisma)
 

@@ -103,15 +103,6 @@ cd marketplace-backend
 npm install
 ```
 
-### ⚙️ Configurar `.env`
-
-Crie um arquivo `.env`:
-
-```env
-DATABASE_URL="postgresql://usuario:senha@localhost:5432/marketplace_db"
-JWT_SECRET="minha-chave-super-secreta"
-```
-
 ### 🗂️ Rodar Prisma
 
 ```bash
